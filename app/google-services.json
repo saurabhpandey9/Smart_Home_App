@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228104491397",
+    "firebase_url": "https://smart-home-1343e.firebaseio.com",
+    "project_id": "smart-home-1343e",
+    "storage_bucket": "smart-home-1343e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228104491397:android:0bf57c615809bb9af7b4ec",
+        "android_client_info": {
+          "package_name": "com.example.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228104491397-clp263ktqrun8si2oi5bh5i3bjmedu95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeautomation",
+            "certificate_hash": "b8442ede2af0ae1712e224d520bfc80f0a3ecbec"
+          }
+        },
+        {
+          "client_id": "228104491397-vq202noogdno69g0cuauhe2ca60j3ers.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHzv8LnzQvHcV8niGnPDsCpdAu8ilAIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228104491397-vq202noogdno69g0cuauhe2ca60j3ers.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
